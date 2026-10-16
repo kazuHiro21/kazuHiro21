@@ -72,7 +72,7 @@ My long-term goal is to work in **cybersecurity**, especially within **law firm*
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazuHiro21&theme=tokyo-night" alt="Contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazuHiro21&theme=tokyonight" alt="Contribution graph" />
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-kazuHiro21-181717?style=for-the-badge&logo=github)](https://github.com/kazuHiro21)
