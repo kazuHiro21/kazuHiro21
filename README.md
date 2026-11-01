@@ -85,8 +85,8 @@ Linux is the **kernel**; Ubuntu, Debian, and Kali Linux are **Linux distribution
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazuHiro21&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuHiro21&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazuHiro21&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kazuHiro21&theme=tokyonight" alt="Top languages by repository" />
 </p>
 
 <p align="center">
@@ -113,9 +113,9 @@ Linux is the **kernel**; Ubuntu, Debian, and Kali Linux are **Linux distribution
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kazuHiro21/JM-jun/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kazuHiro21/JM-jun/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/kazuHiro21/JM-jun/output/github-contribution-grid-snake.svg" alt="Snake animation following my GitHub contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kazuHiro21/kazuHiro21/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kazuHiro21/kazuHiro21/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/kazuHiro21/kazuHiro21/output/github-contribution-grid-snake.svg" alt="Snake animation following my GitHub contribution graph" />
   </picture>
 </p>
 
