@@ -40,9 +40,9 @@ My long-term goal is to work in **cybersecurity**, especially within **law firm*
 
 ### Interests
 
-- Game Engines & Game Design
-- Systems Programming (C/C++)
-- Application Security & Blue-Team Awareness
+- Game Engines (Unity/UE5) & Gameplay Programming
+- Systems Programming (C#/C++)
+- SOC Analyst, GRC, Penetration Testing
 - Open Source Contribution
 
 ---
@@ -63,7 +63,8 @@ My long-term goal is to work in **cybersecurity**, especially within **law firm*
 ## 📌 Featured Projects
 
 - 🎮 **Game Dev Ideas** — experiments and small projects exploring game development concepts
-- 📚 **School Projects** — academic projects and coursework related to Computer Science
+- 📚 **School Projects** — academic projects and coursework related to my major
+  
 
 > More projects coming soon — stay tuned!
 
@@ -86,4 +87,4 @@ My long-term goal is to work in **cybersecurity**, especially within **law firm*
   <img src="https://komarev.com/ghpvc/?username=kazuHiro21&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
-⭐ *Thanks for visiting amigos! feel free to explore my repositories!*
+⭐ *Thanks for visiting! feel free to explore my repositories!*
